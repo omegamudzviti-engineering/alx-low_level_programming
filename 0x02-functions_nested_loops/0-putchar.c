@@ -1,7 +1,8 @@
 #include "main.h";
 
-/** prototype of the function _putchar is included in your header file called main.h
- */
+/** main - prints putchar
+* Return : awalys 0
+*/
 
 int main(void)
 {
